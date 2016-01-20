@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12b87e61-e23d-4d86-8ccf-718f42f8406f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreDataSample/Controllers/FolderViewController/FolderViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreDataSample/Controllers/FolderViewController/FolderViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreDataSample/Controllers/NoteViewController/NoteViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreDataSample/Controllers/NoteViewController/NoteViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreDataSample/CoreDataSample.xcdatamodeld/CoreDataSample 2.xcdatamodel/contents" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreDataSample/Manager/CoreDataManager.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreDataSample/Manager/CoreDataManager.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreDataSample/Model/Folder+CoreDataProperties.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreDataSample/Model/Folder+CoreDataProperties.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreDataSample/Model/Folder.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreDataSample/Model/Folder.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreDataSample/Model/Note+CoreDataProperties.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreDataSample/Model/Note+CoreDataProperties.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreDataSample/Model/Note.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreDataSample/Model/Note.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreDataSample/NoteViewController.m" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CoreDataSample/ViewController.m" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CoreDataSample/ViewController.h" afterPath="$PROJECT_DIR$/CoreDataSample/NoteViewController.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CoreDataSample.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/CoreDataSample.xcodeproj/project.pbxproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CoreDataSample/AppDelegate.h" afterPath="$PROJECT_DIR$/CoreDataSample/AppDelegate.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CoreDataSample/AppDelegate.m" afterPath="$PROJECT_DIR$/CoreDataSample/AppDelegate.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CoreDataSample/Base.lproj/Main.storyboard" afterPath="$PROJECT_DIR$/CoreDataSample/Base.lproj/Main.storyboard" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CoreDataSample/CoreDataSample.xcdatamodeld/CoreDataSample.xcdatamodel/contents" afterPath="$PROJECT_DIR$/CoreDataSample/CoreDataSample.xcdatamodeld/CoreDataSample.xcdatamodel/contents" />
+    </list>
+    <ignored path="CoreDataSample.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphoneos" />
+  <component name="FavoritesManager">
+    <favorites_list name="CoreDataSample" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="AppDelegate.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CoreDataSample/AppDelegate.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppDelegate.m" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CoreDataSample/AppDelegate.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+              <folding>
+                <marker date="1453206450000" expanded="true" signature="157:200" placeholder="..." />
+                <marker date="1453206450000" expanded="true" signature="229:2187" placeholder="..." />
+                <marker date="1453206450000" expanded="true" signature="341:426" placeholder="{...}" />
+                <marker date="1453206450000" expanded="true" signature="493:930" placeholder="{...}" />
+                <marker date="1453206450000" expanded="true" signature="999:1355" placeholder="{...}" />
+                <marker date="1453206450000" expanded="true" signature="1425:1582" placeholder="{...}" />
+                <marker date="1453206450000" expanded="true" signature="1648:1842" placeholder="{...}" />
+                <marker date="1453206450000" expanded="true" signature="1906:2185" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CoreDataManager.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CoreDataSample/Manager/CoreDataManager.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding>
+                <marker date="1453210232000" expanded="true" signature="0:151" placeholder="//..." />
+                <marker date="1453210232000" expanded="true" signature="161:216" placeholder="..." />
+                <marker date="1453210232000" expanded="true" signature="912:937" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CoreDataManager.m" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CoreDataSample/Manager/CoreDataManager.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.1938089">
+              <caret line="134" column="61" selection-start-line="134" selection-start-column="61" selection-end-line="134" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CoreDataSample/AppDelegate.h" />
+        <option value="$PROJECT_DIR$/CoreDataSample/AppDelegate.m" />
+        <option value="$PROJECT_DIR$/CoreDataSample/Manager/CoreDataManager.h" />
+        <option value="$PROJECT_DIR$/CoreDataSample/Manager/CoreDataManager.m" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="23" />
+    <option name="width" value="1899" />
+    <option name="height" value="1052" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Cidr.FilesView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CoreDataSample" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CoreDataSample" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CoreDataSample" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="OBJC.PRESERVED_TARGET_SELECTION" value="CoreDataSample" />
+  </component>
+  <component name="RunManager" selected="Application.CoreDataSample">
+    <configuration default="true" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="CoreDataSample" TARGET_NAME="CoreDataSample" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CoreDataSample" RUN_TARGET_NAME="CoreDataSample" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="OCGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="CoreDataSample" TARGET_NAME="CoreDataSample" CONFIG_NAME="Debug" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="OCUnitRunConfiguration" factoryName="XCTest/Kiwi" PASS_PARENT_ENVS="FALSE" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="CoreDataSample" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="CoreDataSample" TARGET_NAME="CoreDataSample" CONFIG_NAME="Debug" SCHEME_NAME="CoreDataSample" RUN_TARGET_PROJECT_NAME="CoreDataSample" RUN_TARGET_NAME="CoreDataSample" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.CoreDataSample" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12b87e61-e23d-4d86-8ccf-718f42f8406f" name="Default" comment="" />
+      <created>1453202501831</created>
+      <option name="number" value="Default" />
+      <updated>1453202501831</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="23" width="1899" height="1052" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.196875" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CoreDataSample/AppDelegate.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreDataSample/AppDelegate.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding>
+            <marker date="1453206450000" expanded="true" signature="157:200" placeholder="..." />
+            <marker date="1453206450000" expanded="true" signature="229:2187" placeholder="..." />
+            <marker date="1453206450000" expanded="true" signature="341:426" placeholder="{...}" />
+            <marker date="1453206450000" expanded="true" signature="493:930" placeholder="{...}" />
+            <marker date="1453206450000" expanded="true" signature="999:1355" placeholder="{...}" />
+            <marker date="1453206450000" expanded="true" signature="1425:1582" placeholder="{...}" />
+            <marker date="1453206450000" expanded="true" signature="1648:1842" placeholder="{...}" />
+            <marker date="1453206450000" expanded="true" signature="1906:2185" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreDataSample/Manager/CoreDataManager.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <marker date="1453210232000" expanded="true" signature="0:151" placeholder="//..." />
+            <marker date="1453210232000" expanded="true" signature="161:216" placeholder="..." />
+            <marker date="1453210232000" expanded="true" signature="912:937" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreDataSample/Manager/CoreDataManager.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.1938089">
+          <caret line="134" column="61" selection-start-line="134" selection-start-column="61" selection-end-line="134" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

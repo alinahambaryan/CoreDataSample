@@ -7,27 +7,46 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		ABA962A321DA892B4B146DBC /* CoreDataManager.m in Sources */ = {isa = PBXBuildFile; fileRef = ABA967E42E96178BD64E5402 /* CoreDataManager.m */; };
+		ABA96361C0820958FBD75200 /* FolderViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ABA96714E95437D3806E7B17 /* FolderViewController.m */; };
+		ABA96B807A840D810AA349C8 /* NoteViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ABA965F6A0AA0243738D8F0D /* NoteViewController.m */; };
 		C99FFCB01C4E3F1800C4F8A6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C99FFCAF1C4E3F1800C4F8A6 /* main.m */; };
 		C99FFCB31C4E3F1800C4F8A6 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C99FFCB21C4E3F1800C4F8A6 /* AppDelegate.m */; };
-		C99FFCB61C4E3F1800C4F8A6 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C99FFCB51C4E3F1800C4F8A6 /* ViewController.m */; };
 		C99FFCB91C4E3F1800C4F8A6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C99FFCB71C4E3F1800C4F8A6 /* Main.storyboard */; };
 		C99FFCBC1C4E3F1800C4F8A6 /* CoreDataSample.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C99FFCBA1C4E3F1800C4F8A6 /* CoreDataSample.xcdatamodeld */; };
 		C99FFCBE1C4E3F1800C4F8A6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C99FFCBD1C4E3F1800C4F8A6 /* Assets.xcassets */; };
 		C99FFCC11C4E3F1800C4F8A6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C99FFCBF1C4E3F1800C4F8A6 /* LaunchScreen.storyboard */; };
+		C99FFD381C4E6D8600C4F8A6 /* Note+CoreDataProperties.m in Sources */ = {isa = PBXBuildFile; fileRef = C99FFD311C4E6D8600C4F8A6 /* Note+CoreDataProperties.m */; };
+		C99FFD391C4E6D8600C4F8A6 /* Note.m in Sources */ = {isa = PBXBuildFile; fileRef = C99FFD331C4E6D8600C4F8A6 /* Note.m */; };
+		C99FFD3A1C4E6D8600C4F8A6 /* Folder+CoreDataProperties.m in Sources */ = {isa = PBXBuildFile; fileRef = C99FFD351C4E6D8600C4F8A6 /* Folder+CoreDataProperties.m */; };
+		C99FFD3B1C4E6D8600C4F8A6 /* Folder.m in Sources */ = {isa = PBXBuildFile; fileRef = C99FFD371C4E6D8600C4F8A6 /* Folder.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		ABA965F6A0AA0243738D8F0D /* NoteViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NoteViewController.m; sourceTree = "<group>"; };
+		ABA96714E95437D3806E7B17 /* FolderViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FolderViewController.m; sourceTree = "<group>"; };
+		ABA967E42E96178BD64E5402 /* CoreDataManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CoreDataManager.m; path = CoreDataSample/Manager/CoreDataManager.m; sourceTree = SOURCE_ROOT; };
+		ABA96934F7E3B536E458D9E8 /* FolderViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FolderViewController.h; sourceTree = "<group>"; };
+		ABA96C4FB82524114201F17A /* CoreDataManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CoreDataManager.h; path = CoreDataSample/Manager/CoreDataManager.h; sourceTree = SOURCE_ROOT; };
+		ABA96F10017A82D7618099D0 /* NoteViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NoteViewController.h; sourceTree = "<group>"; };
 		C99FFCAB1C4E3F1800C4F8A6 /* CoreDataSample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoreDataSample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C99FFCAF1C4E3F1800C4F8A6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		C99FFCB11C4E3F1800C4F8A6 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		C99FFCB21C4E3F1800C4F8A6 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		C99FFCB41C4E3F1800C4F8A6 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		C99FFCB51C4E3F1800C4F8A6 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		C99FFCB81C4E3F1800C4F8A6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		C99FFCBB1C4E3F1800C4F8A6 /* CoreDataSample.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreDataSample.xcdatamodel; sourceTree = "<group>"; };
 		C99FFCBD1C4E3F1800C4F8A6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C99FFCC01C4E3F1800C4F8A6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C99FFCC21C4E3F1800C4F8A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C99FFCC81C4E40BC00C4F8A6 /* CoreDataSample 2.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "CoreDataSample 2.xcdatamodel"; sourceTree = "<group>"; };
+		C99FFD301C4E6D8600C4F8A6 /* Note+CoreDataProperties.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Note+CoreDataProperties.h"; sourceTree = "<group>"; };
+		C99FFD311C4E6D8600C4F8A6 /* Note+CoreDataProperties.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "Note+CoreDataProperties.m"; sourceTree = "<group>"; };
+		C99FFD321C4E6D8600C4F8A6 /* Note.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Note.h; sourceTree = "<group>"; };
+		C99FFD331C4E6D8600C4F8A6 /* Note.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Note.m; sourceTree = "<group>"; };
+		C99FFD341C4E6D8600C4F8A6 /* Folder+CoreDataProperties.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Folder+CoreDataProperties.h"; sourceTree = "<group>"; };
+		C99FFD351C4E6D8600C4F8A6 /* Folder+CoreDataProperties.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "Folder+CoreDataProperties.m"; sourceTree = "<group>"; };
+		C99FFD361C4E6D8600C4F8A6 /* Folder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Folder.h; sourceTree = "<group>"; };
+		C99FFD371C4E6D8600C4F8A6 /* Folder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Folder.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +60,57 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		ABA96019A52F09F35E4FB8FD /* FolderViewController */ = {
+			isa = PBXGroup;
+			children = (
+				ABA96934F7E3B536E458D9E8 /* FolderViewController.h */,
+				ABA96714E95437D3806E7B17 /* FolderViewController.m */,
+			);
+			path = FolderViewController;
+			sourceTree = "<group>";
+		};
+		ABA96725D9AF230B9A774D40 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				ABA96BBB781A191E554DF3BC /* NoteViewController */,
+				ABA96019A52F09F35E4FB8FD /* FolderViewController */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		ABA9697553A57D14D85F2B77 /* Managers */ = {
+			isa = PBXGroup;
+			children = (
+				ABA967E42E96178BD64E5402 /* CoreDataManager.m */,
+				ABA96C4FB82524114201F17A /* CoreDataManager.h */,
+			);
+			path = Managers;
+			sourceTree = "<group>";
+		};
+		ABA96BBB781A191E554DF3BC /* NoteViewController */ = {
+			isa = PBXGroup;
+			children = (
+				ABA96F10017A82D7618099D0 /* NoteViewController.h */,
+				ABA965F6A0AA0243738D8F0D /* NoteViewController.m */,
+			);
+			path = NoteViewController;
+			sourceTree = "<group>";
+		};
+		ABA96E4C6B7694A9BC24AB4D /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				C99FFD301C4E6D8600C4F8A6 /* Note+CoreDataProperties.h */,
+				C99FFD311C4E6D8600C4F8A6 /* Note+CoreDataProperties.m */,
+				C99FFD321C4E6D8600C4F8A6 /* Note.h */,
+				C99FFD331C4E6D8600C4F8A6 /* Note.m */,
+				C99FFD341C4E6D8600C4F8A6 /* Folder+CoreDataProperties.h */,
+				C99FFD351C4E6D8600C4F8A6 /* Folder+CoreDataProperties.m */,
+				C99FFD361C4E6D8600C4F8A6 /* Folder.h */,
+				C99FFD371C4E6D8600C4F8A6 /* Folder.m */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
 		C99FFCA21C4E3F1700C4F8A6 = {
 			isa = PBXGroup;
 			children = (
@@ -60,16 +130,17 @@
 		C99FFCAD1C4E3F1800C4F8A6 /* CoreDataSample */ = {
 			isa = PBXGroup;
 			children = (
+				ABA96725D9AF230B9A774D40 /* Controllers */,
+				ABA9697553A57D14D85F2B77 /* Managers */,
 				C99FFCB11C4E3F1800C4F8A6 /* AppDelegate.h */,
 				C99FFCB21C4E3F1800C4F8A6 /* AppDelegate.m */,
-				C99FFCB41C4E3F1800C4F8A6 /* ViewController.h */,
-				C99FFCB51C4E3F1800C4F8A6 /* ViewController.m */,
 				C99FFCB71C4E3F1800C4F8A6 /* Main.storyboard */,
 				C99FFCBD1C4E3F1800C4F8A6 /* Assets.xcassets */,
 				C99FFCBF1C4E3F1800C4F8A6 /* LaunchScreen.storyboard */,
 				C99FFCC21C4E3F1800C4F8A6 /* Info.plist */,
 				C99FFCBA1C4E3F1800C4F8A6 /* CoreDataSample.xcdatamodeld */,
 				C99FFCAE1C4E3F1800C4F8A6 /* Supporting Files */,
+				ABA96E4C6B7694A9BC24AB4D /* Model */,
 			);
 			path = CoreDataSample;
 			sourceTree = "<group>";
@@ -153,9 +224,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				C99FFCBC1C4E3F1800C4F8A6 /* CoreDataSample.xcdatamodeld in Sources */,
-				C99FFCB61C4E3F1800C4F8A6 /* ViewController.m in Sources */,
 				C99FFCB31C4E3F1800C4F8A6 /* AppDelegate.m in Sources */,
 				C99FFCB01C4E3F1800C4F8A6 /* main.m in Sources */,
+				ABA962A321DA892B4B146DBC /* CoreDataManager.m in Sources */,
+				C99FFD3A1C4E6D8600C4F8A6 /* Folder+CoreDataProperties.m in Sources */,
+				C99FFD391C4E6D8600C4F8A6 /* Note.m in Sources */,
+				C99FFD3B1C4E6D8600C4F8A6 /* Folder.m in Sources */,
+				C99FFD381C4E6D8600C4F8A6 /* Note+CoreDataProperties.m in Sources */,
+				ABA96B807A840D810AA349C8 /* NoteViewController.m in Sources */,
+				ABA96361C0820958FBD75200 /* FolderViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -302,6 +379,7 @@
 				C99FFCC71C4E3F1800C4F8A6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
@@ -309,6 +387,7 @@
 		C99FFCBA1C4E3F1800C4F8A6 /* CoreDataSample.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
+				C99FFCC81C4E40BC00C4F8A6 /* CoreDataSample 2.xcdatamodel */,
 				C99FFCBB1C4E3F1800C4F8A6 /* CoreDataSample.xcdatamodel */,
 			);
 			currentVersion = C99FFCBB1C4E3F1800C4F8A6 /* CoreDataSample.xcdatamodel */;

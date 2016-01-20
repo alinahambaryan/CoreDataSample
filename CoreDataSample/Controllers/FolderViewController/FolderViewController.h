@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  FolderViewController.h
 //  CoreDataSample
 //
 //  Created by Alina Hambaryan on 1/19/16.
@@ -8,8 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface FolderViewController : UIViewController
 
 
 @end
-
